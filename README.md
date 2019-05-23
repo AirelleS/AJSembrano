@@ -1,7 +1,5 @@
 # AJ Sembrano
-https://airelles.github.io/AJSembrano/
-
-#### See my projects
+###### See my projects at https://airelles.github.io/AJSembrano/
 
 
 
